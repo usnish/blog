@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Usnish Majumdar</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Usnish Majumdar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Feb 2017 02:03:55 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ebola</title>
+      <link>/tags/ebola/</link>
+      <pubDate>Sat, 04 Feb 2017 02:03:55 +0000</pubDate>
+      
+      <guid>/tags/ebola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>/tags/future/</link>
+      <pubDate>Sat, 14 Dec 2013 08:36:00 +0000</pubDate>
+      
+      <guid>/tags/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global health</title>
+      <link>/tags/global-health/</link>
+      <pubDate>Sat, 04 Feb 2017 02:03:55 +0000</pubDate>
+      
+      <guid>/tags/global-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health systems</title>
+      <link>/tags/health-systems/</link>
+      <pubDate>Sat, 04 Feb 2017 02:03:55 +0000</pubDate>
+      
+      <guid>/tags/health-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>/tags/internet/</link>
+      <pubDate>Sat, 14 Dec 2013 08:36:00 +0000</pubDate>
+      
+      <guid>/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narrative</title>
+      <link>/tags/narrative/</link>
+      <pubDate>Sun, 24 Aug 2014 22:45:00 +0000</pubDate>
+      
+      <guid>/tags/narrative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
