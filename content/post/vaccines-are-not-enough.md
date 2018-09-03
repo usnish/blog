@@ -10,9 +10,10 @@ title = "Vaccines are not enough"
 
 +++
 
-![CDC illustration](/images/2017/07/15573089378_9df10109b5_z-1.jpg)
-
+![CDC illustration](/images/2017/07/15573089378_9df10109b5_z-1.jpg#center)
+<p align="center">
 An illustration of Ebola stigma and treatment, drawn [by the CDC](https://www.flickr.com/photos/cdcglobal/15573089378/in/photolist-pJ99V1-q1Es1w-pJ99bL-q1ErMA-pJatYi-q1wwnr-pJciKb-4Sb5gB-pJa3YD-pE5Ygd-p4HfPP-4SfipJ-oUWwuB-oJ2Enq-oUoocY-pReMUg-pyJAY2-p4JCPQ-pJa4Vi-pJ52zg-qycAN4-p4DyNd-pJ4VcM-p4EcZN-p4Gcnv-pQZWrR-pRiLTN-oUrjyt-p4Esuu-p4Muoe-pJ3TCY-p4JCbf-p4JB8J-q1mpj4-pJ8MKL-pAniTX-pBoeo6-q1yUL7-q1mQyT-pYqBzq-p4JA7W-p4JD6w-p4H1WZ-pJ4drQ-pJ5koc-q182Vr-rbG7Yg-pYmc9E-pS9csF-rdxR6k).
+</p>
 
 *Co-written with Christopher Cai, a friend and clinical trial coordinator at Massachusetts General Hospital.*
 
