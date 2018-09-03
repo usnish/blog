@@ -1,4 +1,37 @@
-baseURL = "http://example.org/"
+baseurl = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Usnish Majumdar"
 theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "https://usnish.org/"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "Thanks!"
+    footer = "Built with [Hugo](http://gohugo.io/). Theme based on [hugo-xmin](https://github.com/yihui/hugo-xmin) by Yihui Xie."
