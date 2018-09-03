@@ -1,9 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Usnish Majumdar"
+title = "Usnish Majumdar: Blog"
 theme = "hugo-xmin"
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "blog-usnish-org"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
@@ -13,7 +13,7 @@ footnotereturnlinkcontents = "↩"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "home"
+    name = "posts"
     url = "/"
     weight = 1
 [[menu.main]]
@@ -30,4 +30,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "Thanks!"
-    footer = "Built with [Hugo](http://gohugo.io/). Theme based on [hugo-xmin](https://github.com/yihui/hugo-xmin) by Yihui Xie."
+    footer = "Built with [hugo](http://gohugo.io/) and [hugo-xmin](https://github.com/yihui/hugo-xmin)."
